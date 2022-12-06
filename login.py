@@ -1,7 +1,7 @@
 import tkinter as tk
 import tkinter.font as tkFont
 import tkinter.messagebox as tkMsgBox
-from users import user
+from usuario import User
 from dashboard import DashBoard
 
 class Login(tk.Toplevel):   
